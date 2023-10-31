@@ -1,0 +1,73 @@
+body{
+    background-color: aqua;
+    border: 15px solid lime;
+  }
+  
+h1 {
+    color: #079c40;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 275px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+}
+
+h2{
+    color:yellow;
+    text-align: center;
+    font-size: 100px;
+    text-emphasis-color: ;
+}
+
+h3{
+    color: LIMEgreen;
+    font-size:75px;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size: 28px;
+    line-height: 24px;
+    margin: 0 0 24px;
+    text-align: center;
+    text-justify: inter-word;
+}
+
+textarea {
+    margin: 20px;
+    width: 300px;
+    height: 150px;
+}
+
+ul, ol {
+    margin: 20px;
+    padding: 5;
+    
+}
+
+li {
+    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 1px solid #ccc;
+    color:white
+    
+}
+   
+li:last-child {
+    border:white;
+}
+
+form {
+    height:110px;
+    width:190px;
+    margin:auto;
+    border:1px #CCC dotted;
+    padding:10px;
+}
+    
+input, textarea {
+    padding:5px;
+    margin:5px
+}
